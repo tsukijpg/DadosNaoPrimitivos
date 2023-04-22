@@ -1,3 +1,4 @@
+Adiciona ao objeto pessoa  a propriedade idade com o valor da constante idade.
 const idade = 26
 const pessoa = {
     nome: "Alfredo",
