@@ -1,0 +1,10 @@
+Cria a função que recebe dois argumentos:
+
+obj do tipo objeto;
+prop do tipo string;
+e retorna o valor da propriedade no obj ;
+
+
+function obtemPropriedadeDeObjeto(objeto, propriedade) {
+    return objeto[propriedade]
+}
